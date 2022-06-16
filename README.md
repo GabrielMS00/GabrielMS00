@@ -1,7 +1,7 @@
 ### Olá, eu sou o Gabriel! 👋
 
 - ⚙ Atualmente estou aprendendo Java;
-- ✌ Estudante de Engenharia de Software UnB;
+- ✌ Estudante de Engenharia de Software - UnB;
 - ⚡ Programando desde 2021;
  
 <div align="left">
