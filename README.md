@@ -1,8 +1,8 @@
 ### Olá, eu sou o Gabriel! 👋
 
-- 😜 Atualmente estou aprendendo desenvolvimento web
-- ✌ Busco colaborar em quaisquer projetos criativos e inovadores
-- ⚡ Apaixonado por programação desde 2021!
+- ⚙ Atualmente estou aprendendo Java;
+- ✌ Estudante de Engenharia de Software UnB;
+- ⚡ Programando desde 2021;
  
 <div align="left">
   <a href="https://github.com/GabrielMS00">
