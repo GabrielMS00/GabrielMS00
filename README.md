@@ -1,7 +1,8 @@
 ### Olá, eu sou o Gabriel! 👋
 
-- ⚙ Atualmente estudando Python;
-- ✌ Estudante de Engenharia de Software - UnB;
+- ⚙ Habilidades em progresso: Estou concluindo meu curso de Python;
+- 💻 Estudante de Engenharia de Software - UnB;
+- 💼 Estagiando no Tribunal Superior do Trabalho TST;
  
 <div align="left">
   <a href="https://github.com/GabrielMS00">
