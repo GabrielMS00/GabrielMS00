@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gabriel! 👋
 
-- ⚙ Habilidades em progresso: Estou concluindo meu curso de Python;
+- ⚙ Desenvolvimento de novas habilidades: Estudando Python e SQL;
 - 💻 Estudante de Engenharia de Software - UnB;
 - 💼 Estagiando no Tribunal Superior do Trabalho TST;
  
