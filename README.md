@@ -1,8 +1,8 @@
 ### Olá, eu sou o Gabriel! 👋
 
-- ⚙ Desenvolvimento de novas habilidades: Estudando Python e SQL;
+- ⚙ Desenvolvimento de novas habilidades: Aprofundando meus conhecimentos em desenvolvimento mobile;
 - 💻 Estudante de Engenharia de Software - UnB;
-- 💼 Estagiando no Tribunal Superior do Trabalho TST;
+- 💼 Foco em aplicações com Next.js e React Native;
  
 <div align="left">
   <a href="https://github.com/GabrielMS00">
